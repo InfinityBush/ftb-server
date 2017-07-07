@@ -6,7 +6,7 @@ All packages and information needed to join the FTB server
 Installing the modpack:  
 
 Step 1: Download the zip file from:   
-https://www.dropbox.com/s/exg0knnetvfnbgx/Andrew%27s%20Server%20Pack-1.12.3.zip?dl=1  
+https://www.dropbox.com/s/fgrsytbz8v9badb/Andrew%27s%20Server%20Pack-1.12.4.zip?dl=1
 
 Step 2: Open the Twitch Launcher  
 Step 3: Click "Create Custom Profile"  
