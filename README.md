@@ -15,4 +15,4 @@ Step 5: Select the zip that you downloaded
 Step 6: Wait...  
 Step 7: Open the pack and connect! The server should already be in the Multiplayer section.  
 
-IP: 69.113.223.236:25565  
+IP: 69.113.223.236:25560  
